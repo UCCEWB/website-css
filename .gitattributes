@@ -1,2 +1,2 @@
-css/*.css linguist-language=CSS
-js/*.js linguist-language=JavaScript
+css/*.css linguist-vendored=true
+js/*.js linguist-vendored=true
