@@ -3,6 +3,8 @@
 ## About
 Our current framework used for our website is a custom version of the Boostrap framework.
 
+__Note:__ The `config.json` file contains the custom Bootsrap CSS modifications.
+
 ## Features
 The custom framework is very similar to the standard framework except, it has a different colour scheme.
 
