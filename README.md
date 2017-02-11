@@ -17,6 +17,6 @@ RGB | 235,165,93
 ## How to use
 If you like the framework, you can clone the repository by following the instructions below.
 ```bash
-$ clone https://github.com/UCCEWB/website-css.git
+$ git clone https://github.com/UCCEWB/website-css.git
 ```
 Then you will have the framework on your computer.  You can then open Finder and the framework is compliled in the `css`, `js` and `fonts` folders.
