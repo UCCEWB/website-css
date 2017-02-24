@@ -1,7 +1,7 @@
-# UCC Engineering Society Boostrap Framework
-## Website | https://uccewb.github.io
+# UCC Engineering Society Boostrap Framework - Old Website
+__Note:__ *This framework is no longer used, as the website has had a recent overhaul.*
 ## About
-Our current framework used for our website is a custom version of the Boostrap framework.  It was made using the Boostrap 3 customizer which can be found at http://getbootstrap.com/customize/
+Our current framework used for our old website is a custom version of the Boostrap framework.  It was made using the Boostrap 3 customizer which can be found at http://getbootstrap.com/customize/
 
 __Note:__ The `config.json` file contains the custom Bootsrap CSS modifications.
 
